@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\bin\Debug\netstandard2.0\Xamarin.UITest.deps.json
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\bin\Debug\netstandard2.0\Xamarin.UITest.dll
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\bin\Debug\netstandard2.0\Xamarin.UITest.pdb
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Xamarin.UITest.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Xamarin.UITest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Xamarin.UITest.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Xamarin.UITest.AssemblyInfo.cs
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Xamarin.UITest.dll
+C:\Users\USER\source\repos\Xamarin.UITest\Xamarin.UITest\Xamarin.UITest\obj\Debug\netstandard2.0\Xamarin.UITest.pdb
